@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "United States",
+    "code": "US",
+    "currency": "USD",
+    "phoneCode": 1
+  },
+  {
+    "id": 2,
+    "name": "Germany",
+    "code": "DE",
+    "currency": "EUR",
+    "phoneCode": 49
+  },
+  {
+    "id": 3,
+    "name": "Japan",
+    "code": "JP",
+    "currency": "JPY",
+    "phoneCode": 81
+  },
+  {
+    "id": 4,
+    "name": "Colombia",
+    "code": "CO",
+    "currency": "COP",
+    "phoneCode": 57
+  }
+]
